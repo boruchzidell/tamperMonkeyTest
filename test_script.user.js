@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add Delete Chat Button on ChatGPT
 // @namespace    https://chatgpt.com
-// @version      0.1
+// @version      0.2
 // @description  Adds a Delete Chat button on top of ChatGPT page
 // @author       You
 // @match        https://chatgpt.com/*
