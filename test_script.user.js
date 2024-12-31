@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add Delete Chat Button on ChatGPT
 // @namespace    https://chatgpt.com
-// @version      0.10
+// @version      0.11
 // @description  Adds a Delete Chat button on top of ChatGPT page
 // @author       You
 // @match        https://chatgpt.com/*
@@ -31,7 +31,7 @@
 
         // Create a button element
         const button = document.createElement('button');
-        button.innerText = '10 Delete Chat';
+        button.innerText = '11 Delete Chat';
         button.style.position = 'fixed';
         button.style.top = '10px';
         button.style.right = '180px';
